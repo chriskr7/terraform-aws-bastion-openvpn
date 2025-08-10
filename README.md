@@ -1,7 +1,7 @@
 # terraform-aws-bastion-openvpn
 
 [![Terraform
-  Registry](https://img.shields.io/badge/terraform-registry-blue.svg)](https://registry.terraform.io/modules/YOUR_GITHUB_USERNAME/bastion-openvpn/aws)
+  Registry](https://img.shields.io/badge/terraform-registry-blue.svg)](https://registry.terraform.io/modules/chriskr7/bastion-openvpn/aws)
 
 > 한국어 문서는 [README_KO.md](./README_KO.md)를 참고하세요. / For Korean documentation, please refer to [README_KO.md](./README_KO.md).
 
